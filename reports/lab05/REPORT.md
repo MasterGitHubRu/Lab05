@@ -127,5 +127,5 @@ $ gistup -m "lab${LAB_NUMBER}"
 - [GitLab CI](https://about.gitlab.com/gitlab-ci/)
 
 ```
-Copyright (c) 2017 Братья Вершинины
+Copyright (c) 2018 Михайлов Алексей
 ```
